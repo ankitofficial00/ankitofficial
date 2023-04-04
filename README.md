@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - # 💫 About Me:
-- i am a full stack web developer 
+- I'm a full stack web developer 
 🔭 I’m currently working on  projects in full stack web development <br>- 🌱 I’m currently learning  full stack web development <br>- 📫 How to reach me: https://www.linkedin.com/in/ankit-69b871257<br>
 
 
