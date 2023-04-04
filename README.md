@@ -1,11 +1,7 @@
 ### Hi there 👋
 
-<!--
-**ankitvillagercoder/ankitvillagercoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - # 💫 About Me:
+- i am a full stack web developer 
 🔭 I’m currently working on  projects in full stack web development <br>- 🌱 I’m currently learning  full stack web development <br>- 📫 How to reach me: https://www.linkedin.com/in/ankit-69b871257<br>
 
 
