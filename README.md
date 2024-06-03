@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitofficial00&label=Profile%20views&color=0e75b6&style=flat" alt="ankitofficial00" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitofficial00" alt="ankitofficial00" /></a> </p>
 
 - 🔭 I’m currently working on [Book-Management-Application](https://github.com/ankitofficial00/Book-Management-Application)
 
@@ -29,8 +28,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitofficial00&" alt="ankitofficial00" /></p>
 
-# 💫 About Me:
-Hi 👋, I'm Ankit Yadav<br>A passionate Mern Stack  developer from India<br>- 🌱 I’m currently learning **React, Tawilwind css, Node js ,Express js, MongoDB,Git ,GitHub,Postman,**<br><br>- 💬 Ask me about **Node js, Express js, MongoDB<br>- 📫 How to reach me **ankityadavofficial270@gmail.com**
 
 
 ## 🌐 Socials:
